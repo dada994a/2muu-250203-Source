@@ -1,0 +1,19 @@
+{
+  "mappings": {
+    "ezl/mtnky/nimu/mixins/MixinEntityPlayerSP": {
+      "sendChatMessage": "Lnet/minecraft/client/entity/EntityPlayerSP;func_71165_d(Ljava/lang/String;)V"
+    }
+  },
+  "data": {
+    "notch": {
+      "ezl/mtnky/nimu/mixins/MixinEntityPlayerSP": {
+        "sendChatMessage": "Lbew;e(Ljava/lang/String;)V"
+      }
+    },
+    "searge": {
+      "ezl/mtnky/nimu/mixins/MixinEntityPlayerSP": {
+        "sendChatMessage": "Lnet/minecraft/client/entity/EntityPlayerSP;func_71165_d(Ljava/lang/String;)V"
+      }
+    }
+  }
+}

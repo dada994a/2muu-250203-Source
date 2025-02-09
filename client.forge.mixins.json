@@ -1,0 +1,11 @@
+{
+  "package": "ezl.mtnky.nimu.mixins",
+  "refmap": "client.mixins.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinEntityPlayerSP","MixinLayerCape"
+  ],
+  "mixins": [
+  ]
+}
