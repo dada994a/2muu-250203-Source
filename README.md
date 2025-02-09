@@ -1,7 +1,5 @@
 # 2muu-250203-Source
 
-No obf!?
-
 RAT!
 
 Forge 1.8.9 Legit Client
